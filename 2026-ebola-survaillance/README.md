@@ -1,4 +1,4 @@
-# 2026-projects
+# 2026-projects-1.project: Ebola-survaillance
 
 Ebolavirus genome
 
